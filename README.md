@@ -4,7 +4,10 @@
 
 ## Como usar
 
-Para clonar e rodar esse repositório você vai precisar ter o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/download/) instalados. No seu terminal:
+Para clonar e rodar esse repositório você vai precisar ter o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/download/) instalados. 
+
+
+No seu terminal:
 
 ``` bash
 # Clone esse repositório
